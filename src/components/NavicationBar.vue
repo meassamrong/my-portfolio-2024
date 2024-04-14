@@ -15,6 +15,9 @@
             <router-link to="/" class="nav-layout-item font-semibold grid justify-center items-center mx-2">
                 Community
             </router-link>
+            <router-link to="/" class="nav-layout-item font-semibold grid justify-center items-center mx-2">
+                Contact
+            </router-link>
         </div>
     </div>
 </template>

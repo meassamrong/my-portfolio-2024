@@ -5,7 +5,7 @@ import MousePointerVue from './components/assets/MousePointer.vue'
 </script>
 <template>
   <!-- Mouse pointer-->
-  <MousePointerVue />
+  <!-- <MousePointerVue /> -->
 
   <!-- Default Router Vue -->
   <RouterView />
