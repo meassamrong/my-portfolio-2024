@@ -7,8 +7,8 @@
         <!-- Welcome-section -->
         <div class="parallax-content welcome-section grid justify-center h-screen items-center relative overflow-hidden">
             <div ref="titleEl" class="name text-[5rem] bg-transparent font-silkscreen -translate-y-1/2"
-                :style="{ opacity:  100 - scrollY + '%'}">
-                SAMRONG MEAS {{   100 - scrollY }}
+                :style="{ opacity:  100 - scrollY / 2 + '%'}">
+                SAMRONG MEAS
             </div>
         </div>
     </div>
